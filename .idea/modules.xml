@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/assignment2tictactoe-Naim33208.iml" filepath="$PROJECT_DIR$/.idea/assignment2tictactoe-Naim33208.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignment2tictactoe-Naim33208.main.iml" filepath="$PROJECT_DIR$/.idea/modules/assignment2tictactoe-Naim33208.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/assignment2tictactoe-Naim33208.test.iml" filepath="$PROJECT_DIR$/.idea/modules/assignment2tictactoe-Naim33208.test.iml" />
+    </modules>
+  </component>
+</project>
