@@ -178,7 +178,7 @@ public class Game {
         for(int i = 0; i < grid.length; i++) {
             for(int j=0;j<grid.length;j++) {
                 if(!(grid[i][j] == '-'))
-                    total += 1;
+                    total ++;
             }
         }
         if(total == grid.length * grid.length)
